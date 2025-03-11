@@ -35,7 +35,7 @@ A comprehensive collection of reconnaissance and enumeration tools designed for 
 
 ### Installation
 ```bash
-git clone https://github.com/<your-username>/Recon-and-Enumeration-Toolkit.git
+git clone https://github.com/<shamtech-hub>/Recon-and-Enumeration-Toolkit.git
 cd Recon-and-Enumeration-Toolkit
 ```
 
